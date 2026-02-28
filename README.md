@@ -127,14 +127,14 @@
 </table>
 </div>
 
-<!-- <div style="display: flex; align-items: center">
+<div style="display: flex; align-items: center">
   <h1> 
     My GitHub Stats 
     <a href="#-my-github-stats--">
       <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
     </a>
   </h1>
-</div> -->
+</div>
 
 
 <!---  SNACKE --> 
@@ -150,16 +150,6 @@
   <img alt="Breakout Game" src="https://github.com/HumbleG0d/HumbleG0d/blob/github-breakout/images/breakout-dark.svg" />
 </picture>
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmeG0d&show_icons=true&theme=tokyonight" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbleG0d&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
 
 <div>
   <a href="#">
